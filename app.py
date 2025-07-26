@@ -128,7 +128,18 @@ login_manager.login_view = 'login'
 @login_manager.user_loader
 def load_user(user_id):
     try:
-        return safe_db_operation(lambda session: session.query(User).get(int(user_id)))
+        def get_user_by_id(session):
+            user = session.query(User).get(int(user_id))
+            if user:
+                # Create a detached user object to avoid session issues
+                detached_user = User()
+                detached_user.id = user.id
+                detached_user.username = user.username
+                detached_user.password_hash = user.password_hash
+                return detached_user
+            return None
+            
+        return safe_db_operation(get_user_by_id)
     except (DatabaseError, ValueError) as e:
         logger.error(f"Error loading user {user_id}: {str(e)}")
         return None
@@ -242,12 +253,20 @@ def login():
             return render_template_string(LOGIN_FORM)
         
         try:
-            def get_user(session):
-                return session.query(User).filter_by(username=username).first()
+            def authenticate_user(session):
+                user = session.query(User).filter_by(username=username).first()
+                if user and check_password_hash(user.password_hash, password):
+                    # Create a new detached user object with the necessary data
+                    authenticated_user = User()
+                    authenticated_user.id = user.id
+                    authenticated_user.username = user.username
+                    authenticated_user.password_hash = user.password_hash
+                    return authenticated_user
+                return None
             
-            user = safe_db_operation(get_user)
+            user = safe_db_operation(authenticate_user)
             
-            if user and check_password_hash(user.password_hash, password):
+            if user:
                 login_user(user)
                 logger.info(f"User logged in: {username}")
                 flash('Logged in successfully.', 'success')
