@@ -1,0 +1,103 @@
+2025-07-26 15:14:27,313 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:14:27,323 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:14:53,961 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\extractor.py', reloading
+2025-07-26 15:14:54,817 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:14:54,823 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:15:32,026 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\parser.py', reloading
+2025-07-26 15:15:32,878 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:15:32,883 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:16:04,974 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\app.py', reloading
+2025-07-26 15:16:05,912 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:16:05,917 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:16:51,650 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\app.py', reloading
+2025-07-26 15:16:52,500 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:16:52,504 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:19:11,876 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\app.py', reloading
+2025-07-26 15:19:12,783 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:19:12,784 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:37:44,178 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\app.py', reloading
+2025-07-26 15:37:49,991 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:37:49,994 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:37:56,549 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\extractor.py', reloading
+2025-07-26 15:37:57,458 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:37:57,464 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:37:59,717 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\models.py', reloading
+2025-07-26 15:38:00,633 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:38:00,637 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:38:02,875 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\parser.py', reloading
+2025-07-26 15:38:03,831 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:38:03,832 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:38:28,496 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\extractor.py', reloading
+2025-07-26 15:43:40,274 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-26 15:43:40,274 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-26 15:43:40,275 - werkzeug - INFO -  * Restarting with stat
+2025-07-26 15:43:41,050 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:43:41,055 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:43:45,510 - werkzeug - INFO - 127.0.0.1 - - [26/Jul/2025 15:43:45] "[32mGET / HTTP/1.1[0m" 302 -
+2025-07-26 15:43:45,532 - werkzeug - INFO - 127.0.0.1 - - [26/Jul/2025 15:43:45] "GET /login?next=/ HTTP/1.1" 200 -
+2025-07-26 15:44:35,331 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\test_parser.py', reloading
+2025-07-26 15:44:35,456 - werkzeug - INFO -  * Restarting with stat
+2025-07-26 15:44:36,627 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:44:36,633 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:45:10,071 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\test_app.py', reloading
+2025-07-26 15:45:10,138 - werkzeug - INFO -  * Restarting with stat
+2025-07-26 15:45:10,881 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:45:10,886 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:45:17,778 - app - ERROR - Unexpected error during login for testuser: Instance <User at 0x2965ee72f60> is not bound to a Session; attribute refresh operation cannot proceed (Background on this error at: https://sqlalche.me/e/20/bhk3)
+2025-07-26 15:45:17,866 - app - WARNING - 404 error: http://localhost/nonexistent
+2025-07-26 15:45:17,868 - app - WARNING - Failed login attempt for: invalid
+2025-07-26 15:45:17,879 - __main__ - INFO - Test log message from test script
+2025-07-26 15:45:36,446 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\app.py', reloading
+2025-07-26 15:45:36,513 - werkzeug - INFO -  * Restarting with stat
+2025-07-26 15:45:37,260 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:45:37,265 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:45:47,996 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\app.py', reloading
+2025-07-26 15:45:48,064 - werkzeug - INFO -  * Restarting with stat
+2025-07-26 15:45:48,812 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:45:48,817 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:45:55,851 - app - ERROR - Unexpected error during login for testuser: Instance <User at 0x263bd372e70> is not bound to a Session; attribute refresh operation cannot proceed (Background on this error at: https://sqlalche.me/e/20/bhk3)
+2025-07-26 15:45:55,925 - app - WARNING - 404 error: http://localhost/nonexistent
+2025-07-26 15:45:55,928 - app - WARNING - Failed login attempt for: invalid
+2025-07-26 15:45:55,940 - __main__ - INFO - Test log message from test script
+2025-07-26 15:46:11,276 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\app.py', reloading
+2025-07-26 15:46:11,357 - werkzeug - INFO -  * Restarting with stat
+2025-07-26 15:46:12,133 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:46:12,139 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:46:21,803 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\app.py', reloading
+2025-07-26 15:46:21,872 - werkzeug - INFO -  * Restarting with stat
+2025-07-26 15:46:22,623 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:46:22,642 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:46:29,174 - app - WARNING - Failed login attempt for: testuser
+2025-07-26 15:46:29,244 - app - WARNING - 404 error: http://localhost/nonexistent
+2025-07-26 15:46:29,246 - app - WARNING - Failed login attempt for: invalid
+2025-07-26 15:46:29,259 - __main__ - INFO - Test log message from test script
+2025-07-26 15:46:47,227 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\debug_login.py', reloading
+2025-07-26 15:46:47,338 - werkzeug - INFO -  * Restarting with stat
+2025-07-26 15:46:48,145 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:46:48,150 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:46:54,838 - app - INFO - User logged in: testuser
+2025-07-26 15:47:05,023 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-26 15:47:05,023 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-26 15:47:05,025 - werkzeug - INFO -  * Restarting with stat
+2025-07-26 15:47:05,788 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:47:05,794 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:47:35,979 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\final_test.py', reloading
+2025-07-26 15:47:36,081 - werkzeug - INFO -  * Restarting with stat
+2025-07-26 15:47:36,689 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\final_test.py', reloading
+2025-07-26 15:47:36,780 - werkzeug - INFO -  * Restarting with stat
+2025-07-26 15:47:36,927 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:47:36,932 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:47:37,547 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:47:37,552 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:48:18,003 - werkzeug - INFO - 127.0.0.1 - - [26/Jul/2025 15:48:18] "[32mGET / HTTP/1.1[0m" 302 -
+2025-07-26 15:48:18,011 - werkzeug - INFO - 127.0.0.1 - - [26/Jul/2025 15:48:18] "GET /login?next=/ HTTP/1.1" 200 -
+2025-07-26 15:49:22,157 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\app.py', reloading
+2025-07-26 15:49:22,232 - werkzeug - INFO -  * Restarting with stat
+2025-07-26 15:49:22,736 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\app.py', reloading
+2025-07-26 15:49:22,821 - werkzeug - INFO -  * Restarting with stat
+2025-07-26 15:49:23,072 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:49:23,072 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:49:23,594 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:49:23,599 - werkzeug - INFO -  * Debugger PIN: 462-885-674
