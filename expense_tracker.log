@@ -1,0 +1,15 @@
+2025-07-26 15:14:27,313 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:14:27,323 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:14:53,961 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\extractor.py', reloading
+2025-07-26 15:14:54,817 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:14:54,823 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:15:32,026 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\parser.py', reloading
+2025-07-26 15:15:32,878 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:15:32,883 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:16:04,974 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\app.py', reloading
+2025-07-26 15:16:05,912 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:16:05,917 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:16:51,650 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\app.py', reloading
+2025-07-26 15:16:52,500 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:16:52,504 - werkzeug - INFO -  * Debugger PIN: 462-885-674
+2025-07-26 15:19:11,876 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\app.py', reloading
