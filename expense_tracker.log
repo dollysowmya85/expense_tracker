@@ -13,3 +13,5 @@
 2025-07-26 15:16:52,500 - werkzeug - WARNING -  * Debugger is active!
 2025-07-26 15:16:52,504 - werkzeug - INFO -  * Debugger PIN: 462-885-674
 2025-07-26 15:19:11,876 - werkzeug - INFO -  * Detected change in 'C:\\Users\\radha\\OneDrive\\Documents\\Sow-ExpenaseTracker\\expense_tracker-1\\app.py', reloading
+2025-07-26 15:19:12,783 - werkzeug - WARNING -  * Debugger is active!
+2025-07-26 15:19:12,784 - werkzeug - INFO -  * Debugger PIN: 462-885-674
